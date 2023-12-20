@@ -1,0 +1,7 @@
+.nav:hover{
+    cursor: pointer;
+    user-select: none;
+}
+.nav{
+    margin: 20px;
+}

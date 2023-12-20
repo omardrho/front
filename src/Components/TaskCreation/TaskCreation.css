@@ -1,0 +1,12 @@
+.form{
+    padding: 10px;
+    text-align: left;
+    margin: 20px auto;
+    max-width: 500px;
+}
+.error{
+    color: red;
+    font-size: 8;
+}
+/* .inp{
+} */

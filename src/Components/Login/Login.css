@@ -1,0 +1,32 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.Login{
+    padding-top: 100px;
+}
+.Login-container{
+    box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.2);
+    padding: 30px 20px;
+    border-radius: 5px;
+    width: 350px;
+}
+.signup:hover{
+    inset: all;
+}
+
+button{
+    padding: 7px 13px;
+    background-color: rgb(69, 156, 206);
+    border: none;
+    margin: 7px;
+}
+button:hover{
+    cursor: pointer;
+    user-select: none;
+    background-color: rgb(22, 89, 128);
+    color: white;
+}
